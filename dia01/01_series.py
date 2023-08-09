@@ -8,7 +8,11 @@ idade = [31, 33, 2, 29, 60, 58, 31, 45, 24]
 
 # %%
 s_idade = pd.Series(idade)
+<<<<<<< HEAD
 s_idade.describe()
+=======
+s_idade
+>>>>>>> d9ccc9f4b524a7afc14a8c365e766beab9d09a8e
 
 # %%
 
