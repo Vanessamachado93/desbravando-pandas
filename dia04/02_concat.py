@@ -22,3 +22,4 @@ df_subs = pd.DataFrame(
    .drop_duplicates(subset=['nome'])
    .fillna(0)
 )
+# %%

@@ -22,3 +22,4 @@ df_join = (df_item_pedido.merge(right=df_produto, how='left')
                          .merge(right=df_pedido[['idPedido', 'descUF']], how='left',))
 
 df_join
+# %%
